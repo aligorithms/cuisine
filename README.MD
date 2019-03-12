@@ -1,6 +1,7 @@
 General Assembly - Data Science Part-Time
 Final Project: Categorizing recipes based on ingredients
-Ali Rossi (Alison.L.Rossi@gmail.com)
+
+Ali Rossi
 
 Consumer interest in preparing food at home, especially among millennials, has grown in past years. Along with this growth have come modern offerings aimed at making home cooking easier, as well as expanding access to recipe content. Home cooks are discovering recipes using video channels, search engines, and social media, and often organizing those recipes using smartphone applications.
 
